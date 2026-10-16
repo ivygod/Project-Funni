@@ -1,0 +1,12 @@
+{
+   "save_metadata": {
+	"version": 1.2,
+"game_clock": 12100, // in milliseconds
+"save_type": "autosave"
+},
+  "map_data" : {
+	  "level": 2,
+    "next_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 }, 
+    "prev_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 }  
+}
+
