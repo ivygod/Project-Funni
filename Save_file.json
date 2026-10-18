@@ -1,39 +1,14 @@
 {
-  "save_metadata": {
-    "version": 1.3,
-    "game_clock_ms": 12100,
-    "save_type": "autosave",
-    "is_changemap": false,
-    "changemap_push_wait_seconds": 3,
-    "changemap_counts_as_autosave": true,
-    "timestamp_utc": null
-  },
-  "player": {
-    "id": "player",
-    "health": 100,
-    "level": 2,
-    "camera_direction": { "x": 0.0, "y": 0.0, "z": 0.0 },
-    "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
-    "direction": { "x": 0.0, "y": 0.0, "z": 0.0 },
-    "velocity": { "x": 0.0, "y": 0.0, "z": 0.0 },
-    "crouching": false,
-    "backpack_equipped": false,
-    "standing_on": null,
-    "items": [],
-    "ai_plan": null
-  },
-  "entities": [],
-  "music": {
-    "timestamp_ms": 0
-  },
-  "map_data": {
-    "level": 2,
-    "next_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 },
-    "prev_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 }
-  },
-  "post_save": {
-    "autosave_raycast_floor_checked": false,
-    "autosave_player_position_adjusted": false,
-    "autosave_player_velocity_cleared": false
+   "save_metadata": {
+	"version": 1.2,
+"game_clock": 12100, // in milliseconds
+"save_type": "autosave"
+},
+  "map_data" : {
+	  "level": 2,
+    "next_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 }, 
+    "prev_map_offset": { "x": 0.0, "y": 0.0, "z": 0.0 }  
+},
+  "player_data" : {
+    
   }
-}
