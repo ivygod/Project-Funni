@@ -1,0 +1,6 @@
+Visual Studio Code (Referred to as VSCode, VS, or VSC)
+https://code.visualstudio.com/download/
+Godot Game Engine (Referred to as Godot, pronounced as go doh but without any spaces)
+https://www.godotengine.org/download/
+Blender 3D Modeling Software (Referred to as Blender)
+https://www.blender.org/download/
